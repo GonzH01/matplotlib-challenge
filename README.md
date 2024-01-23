@@ -1,1 +1,2 @@
 # matplotlib-challenge
+This assignment was designed to analyze the results of a scientific study that tested the effectiveness of various drugs on reducing tumors in mice. It combined and cleaned up the data, calculated important statistics, and created graphs to visualize the results. The program's main tasks were to identify how different drugs affected tumor size, and to see if there was any relationship between the mice's weight and the tumor size.
